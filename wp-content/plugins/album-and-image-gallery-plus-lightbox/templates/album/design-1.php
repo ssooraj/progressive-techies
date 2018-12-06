@@ -1,0 +1,42 @@
+<?php
+/**
+ * Album Design 1 HTML
+ * 
+ * @package Album and Image Gallery Plus Lightbox
+ * @since 1.0.0
+ */
+
+// Exit if accessed directly
+if ( !defined( 'ABSPATH' ) ) exit;
+?>
+
+<div class="<?php echo $wrpper_cls; ?>">
+	<div class="aigpl-inr-wrp">
+		
+		<div class="aigpl-img-wrp" style="<?php echo $album_height_css; ?>">
+			<a class="aigpl-img-link" href="<?php echo $album_image; ?>" target="<?php echo $album_link_target; ?>">
+				<?php if($image_link) { ?>
+				<img class="aigpl-img" src="<?php echo $image_link; ?>" title="<?php echo $post->post_title; ?>" alt="<?php _e('Album Image', 'album-and-image-gallery-plus-lightbox'); ?>" />
+				<?php } ?>
+			</a>
+		</div><!-- end .aigpl-img-wrp -->
+		
+		<?php if( $album_title == 'true' ) { ?>
+		<div class="aigpl-img-title aigpl-center"><?php echo $post->post_title; ?></div>
+		<?php } ?>
+		
+		<?php if( !empty($total_photo_lbl) ) { ?>
+		<div class="aigpl-img-count aigpl-center"><?php echo $total_photo_lbl; ?></div>
+		<?php } ?>
+		
+<?php 
+		// Updated by babu
+		if( $post->post_content !== '' ) {
+				//if( $album_full_content == 'true' ) { ?>
+					<div class="aigpl-img-desc aigpl-center"><?php echo wpautop($post->post_content); ?></div>
+		<?php /* } else { ?>
+					<div class="aigpl-img-desc aigpl-center"><?php echo aigpl_get_post_excerpt( $post->ID, get_the_content(), $words_limit, $content_tail ); ?></div>
+		<?php }  */ } ?>
+		
+	</div><!-- end .aigpl-inr-wrp -->
+</div><!-- end .aigpl-columns -->

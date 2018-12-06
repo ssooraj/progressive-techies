@@ -1,0 +1,4 @@
+[13-Oct-2018 19:34:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/ptserver17/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ptserver17/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13

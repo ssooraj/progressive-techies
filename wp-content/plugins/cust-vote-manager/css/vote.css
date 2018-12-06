@@ -1,0 +1,9 @@
+.cust-vote {
+	float:right;
+	padding: 1%;
+    color: #FFF;
+    background-color: #dc143c;
+    width: 7%;
+    border-radius: 5px;
+    border: 1px solid #FFF;
+}

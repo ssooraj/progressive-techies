@@ -1,0 +1,40 @@
+[09-Oct-2018 20:31:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ptserver17/public_html/wp-content/themes/event/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ptserver17/public_html/wp-content/themes/event/index.php on line 12
+[09-Oct-2018 20:31:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ptserver17/public_html/wp-content/themes/event/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ptserver17/public_html/wp-content/themes/event/index.php on line 12
+[10-Oct-2018 20:44:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ptserver17/public_html/wp-content/themes/event/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ptserver17/public_html/wp-content/themes/event/index.php on line 12
+[10-Oct-2018 20:44:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ptserver17/public_html/wp-content/themes/event/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ptserver17/public_html/wp-content/themes/event/index.php on line 12
+[11-Oct-2018 20:49:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ptserver17/public_html/wp-content/themes/event/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ptserver17/public_html/wp-content/themes/event/index.php on line 12
+[11-Oct-2018 20:49:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ptserver17/public_html/wp-content/themes/event/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ptserver17/public_html/wp-content/themes/event/index.php on line 12
+[12-Oct-2018 20:56:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ptserver17/public_html/wp-content/themes/event/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ptserver17/public_html/wp-content/themes/event/index.php on line 12
+[12-Oct-2018 20:56:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ptserver17/public_html/wp-content/themes/event/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ptserver17/public_html/wp-content/themes/event/index.php on line 12
+[13-Oct-2018 21:07:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ptserver17/public_html/wp-content/themes/event/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ptserver17/public_html/wp-content/themes/event/index.php on line 12
+[13-Oct-2018 21:07:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ptserver17/public_html/wp-content/themes/event/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ptserver17/public_html/wp-content/themes/event/index.php on line 12

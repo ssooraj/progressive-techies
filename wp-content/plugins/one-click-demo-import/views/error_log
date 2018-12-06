@@ -1,0 +1,1 @@
+[21-Sep-2018 16:27:05 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/ptserver17/public_html/koratty/wp-content/plugins/one-click-demo-import/views/plugin-page.php on line 10

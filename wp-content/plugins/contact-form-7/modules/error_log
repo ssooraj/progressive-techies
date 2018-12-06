@@ -1,0 +1,16 @@
+[21-Sep-2018 16:27:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ptserver17/public_html/koratty/wp-content/plugins/contact-form-7/modules/listo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ptserver17/public_html/koratty/wp-content/plugins/contact-form-7/modules/listo.php on line 9
+[21-Sep-2018 16:27:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ptserver17/public_html/koratty/wp-content/plugins/contact-form-7/modules/count.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ptserver17/public_html/koratty/wp-content/plugins/contact-form-7/modules/count.php on line 12
+[21-Sep-2018 16:27:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ptserver17/public_html/koratty/wp-content/plugins/contact-form-7/modules/flamingo.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ptserver17/public_html/koratty/wp-content/plugins/contact-form-7/modules/flamingo.php on line 13
+[21-Sep-2018 16:27:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ptserver17/public_html/koratty/wp-content/plugins/contact-form-7/modules/hidden.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ptserver17/public_html/koratty/wp-content/plugins/contact-form-7/modules/hidden.php on line 11
