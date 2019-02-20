@@ -4295,6 +4295,23 @@ hr {
 		width: 100%;
 		margin: 40px auto;
 	}
+	.home.carroms .top-banner h1 {
+		line-height: 26px!important;
+		font-size: 24px;
+		width: 80%;
+		margin: 0 auto;
+		font-weight: 700;
+		padding: 100px 0;
+	}
+	.home.carroms  .content-wrap .left-wrap h2{
+		font-size: 30px;
+	}
+	.home.carroms .content-wrap .left-wrap h3{
+		font-size: 24px;
+	}
+	.container{
+		width: 100%!important;
+	}
 }
 @media only screen and (min-width: 768px) and (max-width:1024px) and (orientation:portrait){
 	.content-wrap .left-wrap,.content-wrap .right-wrap{
@@ -4357,5 +4374,33 @@ hr {
 		/* height: 840px; */
 		/* width: 50%; */
 		margin: 40px auto;
+	}
+}
+/* Carroms */
+.top-banner.carroms{
+	background: url("car.jpeg");
+	height: 300px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	padding-top: 3%;
+    background-position: center;
+    padding-bottom: 5%;
+}
+.home.carroms .top-banner h1{
+	line-height: 200px;
+	text-align: center;;
+	padding: 0;
+}
+.home.carroms .content-wrap {
+    width: 100%;
+    margin: 50px auto;
+    overflow: hidden;
+}
+@media (min-width: 1366px){
+	.container {
+		max-width: 1440px!important;
+		width: 80%!important;
+		margin: 0 auto!important;
 	}
 }
